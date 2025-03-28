@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <picture>profile1.jpg</picture>
+        <name>Paul Anthony F. Valderama</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile2.jpg</picture>
+        <name>Jan Andrei Caballero</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile3.jpg</picture>
+        <name>Ian Lawrence Juan</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile4.jpg</picture>
+        <name>Yhuri Evangelista</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile5.jpg</picture>
+        <name>Brent Tepace</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile6.jpg</picture>
+        <name>Kathleen Magrata</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile7.jpg</picture>
+        <name>Pinky May Romero</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile8.jpg</picture>
+        <name>Gabriella Mica Carillo</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile9.jpg</picture>
+        <name>Ivan Alcantara</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+    <student>
+        <picture>profile10.jpg</picture>
+        <name>James Carl Silpao</name>
+        <course>BSIT</course>
+        <year_level>3B-G2</year_level>
+        <adviser>Mrs. Noemi P. Reyes</adviser>
+        <school_year>2024-2025</school_year>
+    </student>
+</students>
